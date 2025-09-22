@@ -32,7 +32,8 @@ These documents are hosted via GitHub Pages at: [betblocked.github.io](https://b
 
 ## 📞 Contact
 
-- **Email**: privacy@betblocked.app
+- **Email**: betblockedceo@gmail.com
+- 
 - **Support**: Available through the mobile app
 - **Response Time**: 72 hours for privacy requests
 
