@@ -28,7 +28,7 @@ BetBlocked is a comprehensive recovery support app for gambling addiction that f
 
 ## 🌐 Hosting
 
-These documents are hosted via GitHub Pages at: [betblocked.github.io](https://betblocked.github.io)
+These documents are hosted via GitHub Pages at: [gatherdevops-code.github.io/betblocked-legal](https://gatherdevops-code.github.io/betblocked-legal)
 
 ## 📞 Contact
 
